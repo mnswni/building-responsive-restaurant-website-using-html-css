@@ -16,4 +16,4 @@ This responsive-restaurant website has been created by Manaswani.
 ## How to Run
 
 1. Clone the repository.
-2. Open the ``` index.html ``` file in your preferred web browser.
+2. Open the ``` rest.html ``` file in your preferred web browser.
